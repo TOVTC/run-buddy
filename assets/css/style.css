@@ -345,17 +345,16 @@ footer a {
     header h1 {
         width: 100%;
         text-align: center;
-        }
     }
 
     header nav ul {
         margin-top: 20px;
-        wdith: 100%;
+        width: 100%;
         justify-content: center;
     }
 
     header nav ul li a {
-        font-size 20px;
+        font-size: 20px;
     }
 
     footer h2, footer div {
@@ -383,6 +382,7 @@ footer a {
         flex: 1 100%;
     }
 }
+
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
     section {
